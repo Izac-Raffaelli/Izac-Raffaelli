@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Izac-Raffaelli
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning analisys and development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on integrations 
 - 📫 How to reach me ...
 
 <!---
